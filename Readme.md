@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml.cs](./CS/CustomMarkDraw/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CustomMarkDraw/MainWindow.xaml.vb))**
+<!-- default file list end -->
 # How to draw custom marks in the RichEditControl for WPF
 
 
